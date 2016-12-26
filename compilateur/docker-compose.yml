@@ -1,4 +1,4 @@
 compilator:
   build: .
   volumes:
-    - ../evASIon/client:/root
+    - ../../evASIon/client:/root
