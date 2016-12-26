@@ -1,0 +1,4 @@
+compilator:
+  build: .
+  volumes:
+    - ../evASIon/client:/root
