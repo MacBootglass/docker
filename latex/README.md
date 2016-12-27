@@ -2,7 +2,7 @@
 
 ## Auteur: [Thibault THEOLOGIEN](https://github.com/MacBootglass)
 
-* Avant d'utiliser ce container, merci d'exécuter la commande suivante: `mkdir sources`.
+* Avant d'utiliser ce container, merci d'exécuter la commande suivante: `mkdir sources` depuis le répertoire _latex_.
 
 * Placer ensuite les documents à compiler dans le répertoire _latex/sources_ créé précédement.
 
