@@ -1,0 +1,23 @@
+{
+  "name": "latexCompilator",
+  "version": "1.0.0",
+  "description": "Compilateur de documents latex",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacBootglass/docker.git"
+  },
+  "author": "Thibault THEOLOGIEN",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-run": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/MacBootglass/docker/issues"
+  },
+  "homepage": "https://github.com/MacBootglass/docker#readme"
+}

@@ -1,2 +1,3 @@
 .DS_Store
 latex/sources/*
+latex/scripts/node_modules/*
