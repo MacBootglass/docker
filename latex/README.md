@@ -4,7 +4,7 @@
 
 * Avant d'utiliser ce container, merci d'exécuter la commande suivante: `mkdir sources` depuis le répertoire _latex_.
 
-* Placer ensuite les documents à compiler dans le répertoire _latex/sources_ créé précédemment.
+* Placer ensuite les documents à compiler dans le répertoire _latex/sources_ créé précédemment. Dans le cas actuel, c'est un projet personnel ayant l'arborescence _latex/sources/epiclearning/Qualite/PQ/_ qui est compilé.
 
 * Vous pouvez modifier le fichier [latex/scripts/compile.sh](https://github.com/MacBootglass/docker/blob/master/latex/scripts/compile.sh) afin de modifier les commandes exécutées au démarrage du container.
 
